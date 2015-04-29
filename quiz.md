@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Rebecca
 
 ###What is your favorite color?
 
-Your answer goes here
+Green
 
 ###Cats or Dogs?
 
-Your answer goes here
+DOGS ALL DAY
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+DOGS ALL DAY...truly perfect might be puppies all day
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Stanley Tucci
